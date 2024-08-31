@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-st.title("Simple Data Dashboard")
+st.title("Simple Data Dashboard 💹")
 
 uploaded_file = st.file_uploader("Upload any CSV file" , type="csv")
 
